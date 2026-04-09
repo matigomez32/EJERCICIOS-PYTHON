@@ -1,3 +1,6 @@
+
+ESTE GITHUB CONTIENE:
+
 # 1) Ejercicios de Python Fundamentals / Bucles for: Básico 1 (Core)
 
 Resolución de ejercicios:
